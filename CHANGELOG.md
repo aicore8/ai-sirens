@@ -1,46 +1,46 @@
 # Changelog
 
-## [0.1.5](https://github.com/aifivem/ai-sirens/compare/v0.1.4...v0.1.5) (2026-11-02)
+## [0.1.5](https://github.com/aicore8/ai-sirens/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
 ### Documentation
 
-* install from the release zip ([f74740e](https://github.com/aifivem/ai-sirens/commit/f74740e2980d9ca80ea9e38fa13c58e809788a08))
+* install from the release zip ([f74740e](https://github.com/aicore8/ai-sirens/commit/f74740e2980d9ca80ea9e38fa13c58e809788a08))
 
 
 ### Miscellaneous Chores
 
-* build files are no longer in git, the release zip carries them ([ba22c6e](https://github.com/aifivem/ai-sirens/commit/ba22c6efe1124213c406e356e45eac6e7a5dbc74))
+* build files are no longer in git, the release zip carries them ([ba22c6e](https://github.com/aicore8/ai-sirens/commit/ba22c6efe1124213c406e356e45eac6e7a5dbc74))
 
-## [0.1.4](https://github.com/aifivem/ai-sirens/compare/v0.1.3...v0.1.4) (2026-11-02)
+## [0.1.4](https://github.com/aicore8/ai-sirens/compare/v0.1.3...v0.1.4) (2026-11-02)
 
 
 ### Code Refactoring
 
-* import the shared packages from [@aifivem](https://github.com/aifivem) ([5e9035b](https://github.com/aifivem/ai-sirens/commit/5e9035b9d6a3862d83e74911fac2988a5d99da32))
+* import the shared packages from [@aicore8](https://github.com/aicore8) ([5e9035b](https://github.com/aicore8/ai-sirens/commit/5e9035b9d6a3862d83e74911fac2988a5d99da32))
 
-## [0.1.3](https://github.com/aifivem/ai-sirens/compare/v0.1.2...v0.1.3) (2026-11-01)
+## [0.1.3](https://github.com/aicore8/ai-sirens/compare/v0.1.2...v0.1.3) (2026-11-01)
 
 
 ### Code Refactoring
 
-* feature folders, side entries that only import, panel schema per tab ([a1ce28d](https://github.com/aifivem/ai-sirens/commit/a1ce28d18056899497c5834d41a335754138164c))
+* feature folders, side entries that only import, panel schema per tab ([a1ce28d](https://github.com/aicore8/ai-sirens/commit/a1ce28d18056899497c5834d41a335754138164c))
 
-## [0.1.2](https://github.com/aifivem/ai-sirens/compare/v0.1.1...v0.1.2) (2026-10-31)
-
-
-### Miscellaneous Chores
-
-* rebuild with the current lib ([744d266](https://github.com/aifivem/ai-sirens/commit/744d26649515b31e549d85ccc729d73df09f65bb))
-
-## [0.1.1](https://github.com/aifivem/ai-sirens/compare/v0.1.0...v0.1.1) (2026-10-31)
+## [0.1.2](https://github.com/aicore8/ai-sirens/compare/v0.1.1...v0.1.2) (2026-10-31)
 
 
 ### Miscellaneous Chores
 
-* rebuild with the current lib ([91309f8](https://github.com/aifivem/ai-sirens/commit/91309f8dd2cf417a1075078e09885ed7b8079977))
-* rebuild with the current lib ([653b877](https://github.com/aifivem/ai-sirens/commit/653b877211b129eef4f2cc2be5bf0d3a556ef9b6))
-* rebuild with the current lib ([42ec513](https://github.com/aifivem/ai-sirens/commit/42ec513c0652ef0217941a0ea4805977cac499bc))
-* rebuild with the current lib ([f4e4f28](https://github.com/aifivem/ai-sirens/commit/f4e4f285186995f338f992ee23cfa71007e55734))
-* rebuild with the current lib ([bfd6bd6](https://github.com/aifivem/ai-sirens/commit/bfd6bd6a2f426d1f1865cb1fe9a974fd4e113d52))
-* rebuild with the current lib ([0eaa873](https://github.com/aifivem/ai-sirens/commit/0eaa87360dbe9de0d67267bbc512ce69345acd63))
+* rebuild with the current lib ([744d266](https://github.com/aicore8/ai-sirens/commit/744d26649515b31e549d85ccc729d73df09f65bb))
+
+## [0.1.1](https://github.com/aicore8/ai-sirens/compare/v0.1.0...v0.1.1) (2026-10-31)
+
+
+### Miscellaneous Chores
+
+* rebuild with the current lib ([91309f8](https://github.com/aicore8/ai-sirens/commit/91309f8dd2cf417a1075078e09885ed7b8079977))
+* rebuild with the current lib ([653b877](https://github.com/aicore8/ai-sirens/commit/653b877211b129eef4f2cc2be5bf0d3a556ef9b6))
+* rebuild with the current lib ([42ec513](https://github.com/aicore8/ai-sirens/commit/42ec513c0652ef0217941a0ea4805977cac499bc))
+* rebuild with the current lib ([f4e4f28](https://github.com/aicore8/ai-sirens/commit/f4e4f285186995f338f992ee23cfa71007e55734))
+* rebuild with the current lib ([bfd6bd6](https://github.com/aicore8/ai-sirens/commit/bfd6bd6a2f426d1f1865cb1fe9a974fd4e113d52))
+* rebuild with the current lib ([0eaa873](https://github.com/aicore8/ai-sirens/commit/0eaa87360dbe9de0d67267bbc512ce69345acd63))

@@ -6,8 +6,8 @@ import {
   onClientEvent,
   stateString,
   vehicleFromNet,
-} from "@aifivem/lib/server";
-import { readId } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { readId } from "@aicore8/lib/shared";
 import { EVENTS, readSettings, SIREN_BAGS, toLevel } from "common/sirens";
 import { schema } from "./schema";
 

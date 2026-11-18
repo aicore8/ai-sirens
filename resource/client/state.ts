@@ -3,7 +3,7 @@ import {
   entityFromNetId,
   EntityState,
   stateString,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { EVENTS, readSettings, SIREN_BAGS, toLevel } from "common/sirens";
 
 const hashes = (models: string[]) => new Set(models.map((m) => GetHashKey(m)));

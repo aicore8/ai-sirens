@@ -1,4 +1,4 @@
-import { every, waitForEntity } from "@aifivem/lib/client";
+import { every, waitForEntity } from "@aicore8/lib/client";
 import { isFireSiren, isPowercall, manual, tone, tonesOf } from "./state";
 
 /** Sound ids and the applied level per vehicle handle, for the main siren and the airhorn / manual siren. */

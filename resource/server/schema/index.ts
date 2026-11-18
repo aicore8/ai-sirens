@@ -1,4 +1,4 @@
-import type { PanelSchema } from "@aifivem/shared";
+import type { PanelSchema } from "@aicore8/shared";
 import { lightbarsTab } from "./lightbars";
 import { settingsFile, sirensTab } from "./sirens";
 

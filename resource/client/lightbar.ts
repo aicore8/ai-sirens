@@ -7,7 +7,7 @@ import {
   onCache,
   onStop,
   requestModel,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { SIREN_BAGS } from "common/sirens";
 import { ask, isEmergency, lightbar, settings, stateOf } from "./state";
 
